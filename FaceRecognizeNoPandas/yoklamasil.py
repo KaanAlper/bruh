@@ -1,6 +1,5 @@
 import mysql.connector as mysql
 from mysql.connector import Error
-import pandas as pd
 from datetime import datetime
 
 def tarih_sil():
